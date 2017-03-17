@@ -1,2 +1,0 @@
-# SelfProject
-Personal code management
